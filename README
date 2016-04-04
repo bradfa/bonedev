@@ -1,0 +1,7 @@
+Bonedev
+=======
+
+Use this as an example with the [mr-oe-bonedev][1] repo to configure your
+Yocto/OE build as needed.
+
+[1]: https://github.com/bradfa/mr-oe-bonedev
